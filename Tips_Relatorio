@@ -1,0 +1,129 @@
+ToDo...
+
+
+- Tips Relatório:
+
+	Um Relatório deve ser:
+	
+	Objetivo: um Relatório científico ou técnico lida com dados concretos e evidências suportadas pela realidade. Só.
+
+	Conciso: deve ser tão curto quanto possível, contendo apenas os elementos que são necessários para cumprir a sua função. Não deve ter elementos 	apenas para encher: nem texto desnecessário (a chamada “palha”), nem dados que não sejam relevantes para o objeto da análise.
+
+	Completo: deve conter todos os elementos necessários à compreensão do relato que é feito e do trabalho que foi desenvolvido, sem omissões.
+
+	Conclusivo: não deve deixar dúvidas ao Leitor. Todas as questões levantadas no âmbito do trabalho desenvolvido têm que ser encerradas. Podem ser encerradas respondendo claramente à questão (“A corrente que passa através de uma resistência é diretamente proporcional à tensão que lhe é aplicada”) ou, quando não haja uma resposta definitiva, devem ser identificados os aspetos a estudar que poderão contribuir para que se atinja essa resposta.
+
+	Organização de um Relatório:
+
+	Identificação: indespensável!
+
+	As 5 questões:
+
+		1- Quem: Identifica os autores do Relatório;
+		2- O quê: O que foi feito no relatório, o titulo;
+		3/4- Quando/Onde: Data e Local onde o trabalho foi realizado;
+		5- Porquê: Razão da realização do trabalho, e porque de lê-lo.
+
+	Estrutura: importante ser organizada, para facilitar a leitura, e metódico para facilitar a sua elaboração.
+
+	Necessidade de Estruta: Como foi dito acima;
+
+- Parte Teórica do Projecto:
+
+	.Itens do Relatório:
+
+		- Resumo: deve descrever sumariamente o trabalho realizado e o relatório:
+			- Problema abordado;
+			- metodologia utilizada;
+			- resultados;
+			- conclusões.
+
+			. a linguagem nesta parte, não deve ser técnica, para "cativar" os leitores.
+
+		- Introdução: faz a apresentação geral do relatório:
+
+			- problema que se pretende resolver;
+			- o seu encradamento e justificação;
+			- metodologia utilizada.
+
+		- Descrição do problema: apresenta o problema a atacar ou resolver:
+
+			- Ficar bem claro a pergunta que pretendemos responder (ponto de partida);
+			- Necessário o estado da Arte, ou seja dar a conhecer o que já "existe" no "mercado", vantagens e desvantagens;
+			- As vezes necessário uma fase complementar, ver PDF.
+
+		- Aparelhagem e equipamento: descrever o equipamento e aparelhagem utilizados:
+
+			- tipo de material;
+			- como foi ultilizado;
+			- como se interliga;
+
+		- Procedimento: metodologia de trabalho utilizada, descrita sem ambiguidades:
+
+			- as acções efectuadas;
+			- como se realizou todo o trabalho escrito;
+			- as vezes existe a junção do iten acima com este, chamando deste modo metodologia ou métodos.
+
+		- Resultados: resultados em bruto, nao comentar os resultados, apenas "despejá-los";
+
+		- Análise dos Resultados: comentar os resultados obtidos, validar, ser o mais honesto possível;
+
+		- Conclusões: dar resposta ao problema proposto (questão), se o objectivo foi cumprido, se a teórica transitou para a prática de forma eficiente;
+
+		- Referências: apenas elementos essenciais à realização;
+
+		- Anexos: conjunto de anexos que ajudaram na elaboração do relatório;
+
+
+	- Dicas: 
+
+	.Tabelas, figuras e gráficos:
+
+		- Questões de forma: - todos os gráficos, tabelas, etc, devem estar devidamente identificados:
+			. numero de ordem;
+			. legenda;
+
+			-Deve existar uma numeração independente para cada tipo de elemento (gráfico, tabela, etc);
+			-Criação de numeração e legenda para imagens e tabelas deve ser feita de modo automático;
+
+	. Citações e Referências:
+
+		- Utilização das Referências: 
+
+			- Uma citação ou referência pode ser vista em 3 casos:
+				. conhecimento geral; - Não é preciso justificar;
+				. conteúdo da frase é original e resulta do autor;
+				. a frase não é original e teve origem de outro trabalho, outro autor.
+					- necessidade de referênciar, duas funções -> 
+						. identificar o autor da afirmação, recpnhecendo os direitos da propriedade intelectual do "trabalho" original;
+						. fornecer os elementos necessários para se aprofundar o estudo de aspectos que não são abordados em detalhe no texto;
+
+			-Como indicar as referências: ver pdf.
+
+
+	.Passos de Eng. de Software (Relatório de Eng. Software II como exemplo):
+
+		0. Descrição da Aplicação
+
+		1. Lista de Actores e Objectivos
+
+		2. Diagrama de Contexto
+
+		3. Diagrama de Casos de Uso
+
+		4. Descrição dos Casos de Uso
+
+		5. Diagramas de Sequência
+
+		6. Diagramas de Classes
+
+		7. Diagramas de Actividades
+
+		8. Diagramas de Estados
+
+		9. Diagrama de Componentes
+
+		10.Diagrama de Instalação
+
+- Parte Prática do Projecto:
+
