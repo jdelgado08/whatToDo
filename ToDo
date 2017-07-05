@@ -1,6 +1,29 @@
-WhatToDo
+---------------------------------------- WhatToDo-----------------------------------------------
 
+Google Places Api Key: AIzaSyCHj_H6sSuESZHlThi5CApRL_EgX1pfc_U
+
+-------------------------------------------------------------------------------------------------------------
+DUVIDAS:
+
+	Casos de uso enviar notificação; alargar para os utilziadores não registados;
+
+-------------------------------------------------------------------------------------------------------------
+
+	- Relatório
+
+		- Eliminar espaços extra;
+		- Colocar transição entre capítulos e descrição inicial do capítulo;	
+
+	- Diagrama de Classes;
 	
+---------------------------------------------------------------------------------------------------------
+Exemplos de Search:
 
-	
+- Devolve a Sé da Guarda:
 
+https://maps.googleapis.com/maps/api/place/textsearch/xml?query=Se+Guarda+Portugal&key=AIzaSyCHj_H6sSuESZHlThi5CApRL_EgX1pfc_U
+
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.8670522,151.1957362&radius=500&key=AIzaSyCHj_H6sSuESZHlThi5CApRL_EgX1pfc_U
+---------------------------------------------------------------------------------------------------------
+Ver 
+http://developer.fulcrumapp.com/data-events/examples/
