@@ -1,4 +1,8 @@
 ---------------------------------------- WhatToDo-----------------------------------------------
+Ideias
+
+Acessibilidade para deficientes, colocar uma tag nos PoI;
+---------------------------------------------------------------------------------------------------------
 
 Google Places Api Key: AIzaSyCHj_H6sSuESZHlThi5CApRL_EgX1pfc_U
 
@@ -10,9 +14,10 @@ DUVIDAS:
 -------------------------------------------------------------------------------------------------------------
 
 	- Relatório
-
-		- Eliminar espaços extra;
-		- Colocar transição entre capítulos e descrição inicial do capítulo;	
+		- Header- mudar titulo;
+		- Impares- Titulo documento;
+		- Pares- Capítulo;
+		
 
 	- Diagrama de Classes;
 	
@@ -26,4 +31,7 @@ https://maps.googleapis.com/maps/api/place/textsearch/xml?query=Se+Guarda+Portug
 https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.8670522,151.1957362&radius=500&key=AIzaSyCHj_H6sSuESZHlThi5CApRL_EgX1pfc_U
 ---------------------------------------------------------------------------------------------------------
 Ver 
+
 http://developer.fulcrumapp.com/data-events/examples/
+
+---------------------------------------------------------------------------------------------------------
